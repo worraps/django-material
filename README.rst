@@ -85,11 +85,10 @@ Django Material Pro with additional features has a commercial-friendly license. 
 Changelog
 =========
 
-1.7.4 2020-12-31
-================
-- Fix perfect scrollbar init
-
-
-1.7.3 2020-11-20
+1.9.0 2020-04-30
 ----------------
-- Update pre-generated themes and theme generator code
+
+- Add support for attribute removing #500
+- Add support for groups in checkbox select multiple #436
+- Add basic support for ordering custom fields in list view #224
+- Change to lazy evaluation {{ modules }} context variable
